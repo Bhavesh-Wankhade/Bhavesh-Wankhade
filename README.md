@@ -23,25 +23,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>  
 
-<div style="display: flex; flex-direction: column; gap: 20px; font-family: Arial, sans-serif;">
+**Backend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jwt-original.svg" alt="JWT" width="40" height="40"/>  
 
-  <!-- Backend Section -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <strong>Backend:</strong>
-    <img src="spring-icon.png" alt="Spring" style="width: 40px; height: 40px;">
-    <img src="node-icon.png" alt="Node.js" style="width: 40px; height: 40px;">
-    <span>JWT</span>
-  </div>
-
-  <!-- Database & Cloud Section -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <strong>Database & Cloud:</strong>
-    <img src="mysql-icon.png" alt="MySQL" style="width: 40px; height: 40px;">
-    <span>AWS</span>
-  </div>
-
-</div>
-
+**Database & Cloud:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>  
 
 **Tools & Others:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
