@@ -31,7 +31,7 @@
 
 **Database & Cloud:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEC2.svg" alt="AWS EC2">
+<!-- <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEC2.svg" alt="AWS EC2"> -->
 
 
 **Tools & Others:**  
