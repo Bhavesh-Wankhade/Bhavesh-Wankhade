@@ -23,7 +23,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>  
 
- <!-- Backend Section -->
+<div style="display: flex; flex-direction: column; gap: 20px; font-family: Arial, sans-serif;">
+
+  <!-- Backend Section -->
   <div style="display: flex; align-items: center; gap: 10px;">
     <strong>Backend:</strong>
     <img src="spring-icon.png" alt="Spring" style="width: 40px; height: 40px;">
@@ -37,6 +39,9 @@
     <img src="mysql-icon.png" alt="MySQL" style="width: 40px; height: 40px;">
     <span>AWS</span>
   </div>
+
+</div>
+
 
 **Tools & Others:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
