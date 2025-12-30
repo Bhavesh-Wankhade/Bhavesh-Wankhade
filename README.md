@@ -26,7 +26,8 @@
 **Backend:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jwt-original.svg" alt="JWT" width="40" height="40"/>  
+<img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" alt="JWT Icon" width="40" height="40">
+
 
 **Database & Cloud:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
