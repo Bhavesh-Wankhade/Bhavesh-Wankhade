@@ -31,8 +31,8 @@
 
 **Database & Cloud:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>  ](https://devicon-website.vercel.app/api/<ICON_NAME>/index.json
-)
+<img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEC2.svg" alt="AWS EC2">
+
 
 **Tools & Others:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
